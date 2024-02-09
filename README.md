@@ -18,7 +18,7 @@ The dashboard project is a CSS grid playground. I learned to:
 
 # Want to see it in action?
 
-<a href="https://hroglardev.github.io/Dashboard/">Click here</a>
+<a href="https://hroglardev.github.io/Dashboard/" target="_blank">Click here</a>
 
 # Want to track my progress?
 
